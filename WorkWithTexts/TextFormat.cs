@@ -28,7 +28,6 @@ namespace WorkWithTexts
                 return result.Trim();
             }
         }
-
         public static string PhoNoFormat(string phoneNo)
         {
             string result = "";
